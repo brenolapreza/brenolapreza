@@ -1,15 +1,9 @@
 
 
 
-<div style="padding:20px">
-    <h1>Olá, me chamo Breno! 🖖</1>
-<hr>
-    <div class="console">
-        <p>Tenho <span style="" class="text-hover"> anos, </span> moro no interior de São Paulo Sou a favor da tecnologia e revolução robotica 🤖</p>
-        <p>Sou <i>DESENVOLVEDOR WEB</i>, gosto muito de JavasCript, ReactJS, café e aprender!<span class="line">|</span></p>
-    </div>
-</div>
-
+# Olá, me chamo Breno! 🖖
+## Tenho anos, moro no interior de São Paulo Sou a favor da tecnologia e revolução robotica 🤖
+## Front-end, gosto muito de JavasCript, ReactJS, café e aprender! |
 
  <div style="display:flex; justify-content:center; padding:20px;">
   <a href="https://github.com/brenolapreza">
@@ -31,61 +25,3 @@
   <a style="margin-right:10px;" href="https://www.linkedin.com/in/breno-lapreza-6a586b155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-<style>
-    .line {
-        font-family: "Courier";
-        font-size: 40px;
-        animation: type 4s steps(60, end);
-    }
-
-    .line {
-        animation: type2 8s steps(60, end);
-    }
-
-    .line {
-        animation: blink 1s infinite;
-    } 
-
-    @keyframes type{ 
-    from { width: 0; } 
-    } 
-
-    @keyframes type2{
-    0%{width: 0;}
-    50%{width: 0;}
-    100%{ width: 100; } 
-    } 
-
-    @keyframes blink{
-    to{opacity: .0;}
-    }
-
-    .console{
-        background: #000;
-        padding: 10px;
-    } 
-
-    p{
-    color: lime; 
-        font-family: "Courier";
-        font-size: 19px;
-        margin: 10px 0 0 10px;
-        line-height:1.7;
-        }
-
-      .text-hover::before{
-        content: " 10101";
-        position:relative;
-        margin: 0 1px;
-        color:#000;
-
-        background-color:#fff;
-    }
-
-    .text-hover:hover::before{
-        content: " 21";
-        margin:0 5px;
-    }
-
-</style>
