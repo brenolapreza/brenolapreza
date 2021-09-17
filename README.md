@@ -4,7 +4,7 @@
 # Olá, me chamo Breno! 🖖
 Tenho 21 anos, moro no interior de São Paulo Sou a favor da tecnologia e revolução robotica 🤖
 
-Front-end, gosto muito de JavasCript, ReactJS, café e aprender! |
+Front-end, gosto muito de JavaScript, ReactJS, café e aprender! |
 
  <div style="display:flex; justify-content:center; padding:20px;">
   <a href="https://github.com/brenolapreza">
