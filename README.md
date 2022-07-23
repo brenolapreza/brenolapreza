@@ -2,7 +2,7 @@
 
 
 # Olá, me chamo Breno! 🖖
-Tenho 21 anos, moro no interior de São Paulo Sou a favor da tecnologia e revolução robotica 🤖
+Tenho 22 anos, moro no interior de São Paulo. 🤖
 
 Front-end, gosto muito de JavaScript, ReactJS, café e aprender! |
 
