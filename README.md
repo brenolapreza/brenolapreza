@@ -2,9 +2,11 @@
 
 
 # Olá, me chamo Breno! 🖖
-Tenho 22 anos, moro no interior de São Paulo. 🤖
+Tenho 23 anos, moro no interior de São Paulo. 🤖
 
-Front-end, gosto muito de JavaScript, ReactJS, café e aprender! |
+Desenvolvedor Front-end, utilizando React/React Native, TypeScript, TailwindUI, Radix, Styled-Components. Com foco em aplicações performáticas e acessíveis.
+
+Meu maior hobby: PROGRAMAR!
 
  <div style="display:flex; justify-content:center; padding:20px;">
   <a href="https://github.com/brenolapreza">
